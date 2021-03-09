@@ -1,2 +1,2 @@
 # mvtagen
-mind-altering gadgets.
+Mind-altering gadgets.
